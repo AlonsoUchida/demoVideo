@@ -1,0 +1,45 @@
+{
+  "ProjectName": "videoDemo",
+  "ProjectGuid": "3546a5af-70d7-4622-a00a-5e6af5d1ffa3",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.videoDemo",
+  "DisplayName": "videoDemo",
+  "Author": "",
+  "Description": "videoDemo",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{9fe1dac6-97bd-4443-be72-7ac8df907851}",
+  "WP8ProductID": "{658e6049-5121-4500-b5e9-e4b6ea285abd}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.videoDemo",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
